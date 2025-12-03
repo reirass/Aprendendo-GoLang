@@ -7,3 +7,7 @@ Repositório do meu aprendizado na linguagem de programação Go.
 - [A Linguagem de Progamação Go - Livro](https://www.amazon.com.br/dp/8575225464/)
 - [GoLang Docs](https://go.dev/doc/)
 - [Go by Example](https://gobyexample.com/)
+
+### > [!IMPORTANT]
+>[ref/spec#Types](https://go.dev/ref/spec#Types)
+> [ref/spec#Conversions](https://go.dev/ref/spec#Conversions)
